@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": false,
   "license": "MIT",
-  "homepage": "http://treyhuffine.github.io/portfolio-create-react-app",
+  "homepage": "http://Boccca2014.github.io/portfolio-create-react-app",
   "dependencies": {
     "@carbon/icons-react": "^10.6.1",
     "@carbon/themes": "^10.7.0",
@@ -14,7 +14,8 @@
     "react-dom": "^16.11.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0",
-    "styled-components": "^4.4.1"
+    "styled-components": "^4.4.1",
+    "yarn": "^1.22.10"
   },
   "scripts": {
     "start": "react-scripts start",
